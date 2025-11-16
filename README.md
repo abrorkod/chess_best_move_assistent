@@ -1,0 +1,1 @@
+Chess AI Bot – A Python-based interactive chess game where players can make moves on a built-in virtual chessboard. As you play, the system analyzes the current board position in real time and suggests the best move using the Stockfish chess engine. The game updates both the player’s and AI's moves simultaneously.
